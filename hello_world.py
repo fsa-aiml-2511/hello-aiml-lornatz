@@ -5,6 +5,6 @@ name = "lorna"
 fun_fact = "dancing"
 
 # Don't change anything below this line
-print(f"Hello! I'm {name}.")
+print(f"Hello! I'm {lorna}.")
 print(f"Fun fact: {fun_fact}")
 print("I'm excited to learn AI/ML!")
